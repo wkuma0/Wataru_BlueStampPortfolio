@@ -39,8 +39,8 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+- What needs to be completed before your final milestone
+For my second milestone, I added the ultrasonic sensor and obstacle avoidance module into 1 so the car can recognize its surroundings better. I also added a remote control so I'm able to control the car as it moves around my house. While I did face some challenges, I was able to successfully combine codes from the ultrasonic sensor, obstacle avoidance module, and remote control into 1 big code so the car can maximize it's efficiency. I plan to do something with LED lights or an LCD display that could be attached to my car for decoration.
 # First Milestone
 
 

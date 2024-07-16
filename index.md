@@ -33,7 +33,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwZ1Qerw8zc?si=XxiRiGramO0mAEKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my second milestone, I added the ultrasonic sensor and obstacle avoidance module into 1 so the car can recognize its surroundings better. I also added a remote control so I'm able to control the car as it moves around my house. While I did face some challenges, I was able to successfully combine codes from the ultrasonic sensor, obstacle avoidance module, and remote control into 1 big code so the car can maximize it's efficiency. I plan to do something with LED lights or an LCD display that could be attached to my car for decoration.
 # First Milestone

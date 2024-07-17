@@ -1,10 +1,6 @@
 # Self Driving Car
 I designed and built an autonomous robot car that navigates through obstacles with ease, using a combination of ultrasonic sensors, obstacle avoidance modules, and remote control capabilities. Powered by Arduino and programmed in C++, this intelligent vehicle detects and responds to its surroundings, alerting users with a buzzer, and displaying my name as decoration on the LCD display. 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

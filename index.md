@@ -39,7 +39,7 @@ For my second milestone, I added the ultrasonic sensor and obstacle avoidance mo
 My first milestone was constructing the self-driving car and running test codes to see how the car would operate. One of the problems I faced was the car stopping after I unplugged it from my PC. After close examination, I figured out that it was because of the battery. After multiple trials, it can go forward, backward, left, and right with a sample code. 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+![image](https://github.com/user-attachments/assets/b465c945-86df-4832-b108-949c0bfd7e87)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 

@@ -392,7 +392,7 @@ String decodeKeyValue(long result) {
 
 # Other Resources/Examples
 Some resources I used
-- [Example 1](https://www.youtube.com/watch?v=Wbg44g9wNdU)
-- [Example 2](https://www.youtube.com/watch?v=PxvORzOhFjE&ab_channel=Robojax)
-
+- [LCD Display](https://www.youtube.com/watch?v=Wbg44g9wNdU)
+- [Remote Control](https://www.youtube.com/watch?v=PxvORzOhFjE&ab_channel=Robojax)
+- [Sunfounder](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/)
 

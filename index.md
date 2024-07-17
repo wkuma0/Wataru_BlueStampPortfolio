@@ -39,7 +39,8 @@ For my second milestone, I added the ultrasonic sensor and obstacle avoidance mo
 My first milestone was constructing the self-driving car and running test codes to see how the car would operate. One of the problems I faced was the car stopping after I unplugged it from my PC. After close examination, I figured out that it was because of the battery. After multiple trials, it can go forward, backward, left, and right with a sample code. 
 
 # Schematics 
-![image](https://github.com/user-attachments/assets/b465c945-86df-4832-b108-949c0bfd7e87)
+![image](https://github.com/user-attachments/assets/6fbfc485-5a0e-4c12-a8b3-34436cc8a1ae)
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 

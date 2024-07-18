@@ -7,9 +7,8 @@ I designed and built an autonomous robot car that navigates through obstacles wi
 | Wataru K. | Leigh High School | Mechanical Engineering | Incoming Senior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+![IMG_1911 (1)](https://github.com/user-attachments/assets/378f6c62-8e07-4424-b309-a84171a53d45)
 
-![Headstone Image](logo.svg)
-  
 # Final Milestone
 
 

@@ -13,7 +13,7 @@ I designed and built an autonomous robot car that navigates through obstacles wi
 # Final Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eCiHrhX1B48?si=7F3JlqHAT3PhtAi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone, I was able to complete my project and add an LCD display as well as a buzzer that creates a sound when an obstacle avoidance module detects an object. I basically combined the code from the previous milestone such as the codes from the ultrasonic sensor, obstacle avoidance module, and remote control into a code that also incorporates the buzzer and LCD display. For the LCD display I needed to add an array and for the buzzer, I added it to the if states that were created for recognizing the distance of the objects. So if the object is far from the module, no buzzer; if the object is close, buzzer. Towards the beginning of the program, I was pretty new to coding in C++ but I gradually understood what was going on in my codes which was then used to make modifications and go out of the box. One of the biggest challenges was coding since I'm not that experienced so I was very happy when my final product worked with the code that I created. 
 

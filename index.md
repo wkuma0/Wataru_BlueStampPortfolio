@@ -41,9 +41,10 @@ My first milestone was constructing the self-driving car and running test codes 
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-#include <IRremote.h>
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+<IRremote.h>
+<Wire.h>
+<LiquidCrystal_I2C.h>
+
 char array1[] = "  Wataru's Self";  // CHANGE THIS AS PER YOUR NEED 
 char array2[] = "   Driving Car";
 
